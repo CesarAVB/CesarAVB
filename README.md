@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend Java | Especialista em Infraestrutura`**
 
-Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha trajetória começou em infraestrutura e redes de telecomunicações, evoluindo para o desenvolvimento de software, onde encontrei minha verdadeira paixão. Hoje atuo como desenvolvedor backend Java com Spring Boot, mantendo também expertise em infraestrutura, o que me permite criar soluções robustas e escaláveis com visão end-to-end.
+Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha trajetória começou em infraestrutura e redes de telecomunicações, evoluindo para o desenvolvimento de software, onde encontrei minha verdadeira paixão. Hoje atuo como desenvolvedor backend Java com Spring Boot, mantendo também expertise em infraestrutura, o que me permite criar soluções robustas e escaláveis com visão end-to-end.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/cesaravbezerra/">
@@ -248,6 +248,4 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
   <img src="https://komarev.com/ghpvc/?username=CesarAVB&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>⚡ "Transformando complexidade em soluções elegantes, um código por vez." ⚡</i>
-</p>
+

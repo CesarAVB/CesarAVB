@@ -195,6 +195,8 @@ Atualmente trabalho na **BRLOGNET Telecomunicações**, desenvolvendo aplicaçõ
 - **Redes:** Cisco, Mikrotik, Huawei, Fiberhome
 - **Protocolos:** BGP, OSPF, MPLS, IPv6, SNMP
 
+---
+
 ### 📊 Estatísticas do GitHub
 
 <p>
@@ -223,15 +225,6 @@ Atualmente trabalho na **BRLOGNET Telecomunicações**, desenvolvendo aplicaçõ
 <br/>
 <br/>
 <br/>
-
----
-
-### 🎓 Formação
-
-- **Tecnologia em Análise e Desenvolvimento de Sistemas** - Universidade Estácio de Sá
-- **Java Web Developer - Formação FullStack** - COTI (96h) - 2025
-- **Java Pleno** - COTI (72h) - 2013
-- **Java Avançado** - COTI (40h) - 2013
 
 ---
 

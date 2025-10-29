@@ -40,11 +40,11 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
 ### 🚀 Sobre Mim
 
 - 💼 **+10 anos de experiência** em tecnologia (infraestrutura → desenvolvimento)
-- 🌱 Focado em **Java/Spring Boot**, **Angular 19+** e **automação com N8N**
+- 🌱 Focado em **Java/Spring Boot**, **Angular 19+**
 - 🎯 Especialista em criar soluções que integram desenvolvimento e infraestrutura
 - 🔧 Experiência sólida em **redes**, **telecomunicações** e **protocolos** (BGP, OSPF, MPLS, IPv6)
 - 📍 Localizado em **Nova Iguaçu, RJ** | Disponível para **presencial, remoto ou híbrido**
-- 💡 Apaixonado por **automação**, **DevOps** e **arquitetura de sistemas**
+- 💡 Apaixonado por **programação**, **automação**, **DevOps** e **arquitetura de sistemas**
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - Universidade Estácio de Sá
 
 ---

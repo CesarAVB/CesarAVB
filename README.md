@@ -166,6 +166,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
 
 <br/>
 <br/>
+<br/>
 
 **Outras Tecnologias:**  
 N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagvis • VMWare • Apache • Tomcat • Asterisk • FreePBX • Cisco • Mikrotik • Huawei • Fiberhome • BGP • OSPF • MPLS • IPv6 • SNMP

@@ -1,4 +1,4 @@
-# 👨‍💻 César Augusto
+# 👨‍💻 César Augusto Vieira Bezerra
 
 **`Desenvolvedor Backend Java | Especialista em Infraestrutura`**
 
@@ -39,17 +39,18 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
 
 ### 🚀 Sobre Mim
 
+- 💼 **+10 anos de experiência** em tecnologia (infraestrutura → desenvolvimento)
 - 🌱 Focado em **Java/Spring Boot**, **Angular 19+** e **automação com N8N**
-- 💼 Experiência sólida em **infraestrutura de redes** e **telecomunicações**
 - 🎯 Especialista em criar soluções que integram desenvolvimento e infraestrutura
-- 📍 Localizado em **Nova Iguaçu, RJ**
+- 🔧 Experiência sólida em **redes**, **telecomunicações** e **protocolos** (BGP, OSPF, MPLS, IPv6)
+- 📍 Localizado em **Nova Iguaçu, RJ** | Disponível para **presencial, remoto ou híbrido**
 - 💡 Apaixonado por **automação**, **DevOps** e **arquitetura de sistemas**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** - Universidade Estácio de Sá
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-#### Backend & Desenvolvimento
 <img 
     align="left" 
     alt="Java"
@@ -66,43 +67,6 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-
-<br/>
-<br/>
-
-#### Frontend
 <img 
     align="left" 
     alt="Angular"
@@ -129,6 +93,14 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
 />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="40px" 
@@ -143,11 +115,6 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
-<br/>
-<br/>
-
-#### DevOps & Infraestrutura
 <img 
     align="left" 
     alt="Docker" 
@@ -155,6 +122,30 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <img 
     align="left" 
@@ -184,17 +175,36 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
 <br/>
 <br/>
 
-#### Ferramentas & Tecnologias
-- **Automação:** N8N, Shell Script
-- **Monitoramento:** Zabbix, Grafana, Nagios, Cacti, Centreon, Netbox, Nagvis
-- **Virtualização:** VMWare
-- **Servidores:** Apache, Tomcat, Asterisk, FreePBX
-- **Redes:** Cisco, Mikrotik, Huawei, Fiberhome
-- **Protocolos:** BGP, OSPF, MPLS, IPv6, SNMP
+**Outras Tecnologias:**  
+N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagvis • VMWare • Apache • Tomcat • Asterisk • FreePBX • Cisco • Mikrotik • Huawei • Fiberhome • BGP • OSPF • MPLS • IPv6 • SNMP
 
 ---
 
-### 📊 Estatísticas
+### 💼 Experiência Profissional
+
+**Desenvolvedor Backend Java | Full Stack**
+- 🚀 Desenvolvimento de aplicações web com **Java/Spring Boot** e **Angular 19+**
+- 🔄 Automação de processos backend com **N8N** e **Docker**
+- 💾 Experiência com bancos de dados **MySQL**, **PostgreSQL** e **Oracle**
+- 📊 Criação de sistemas de gestão (boletos bancários, ativos de rede, sistemas proprietários)
+- 🛠️ Manutenção e evolução de aplicações legadas em **PHP**
+
+**Infraestrutura & DevOps**
+- 🌐 Gerenciamento de redes e protocolos avançados: **BGP**, **OSPF**, **MPLS**, **IPv6**
+- 📡 Configuração de equipamentos: **Cisco**, **Mikrotik**, **Huawei**, **Fiberhome**
+- 📈 Implementação de soluções de monitoramento: **Zabbix**, **Grafana**, **Nagios**, **Centreon**
+- 🖥️ Administração de servidores **Linux/Unix** e virtualização **VMWare**
+- ☎️ Gestão de servidores **VOIP** (Asterisk/FreePBX)
+- 🔧 Automação com **Shell Script**
+
+**Gestão & Liderança**
+- 👥 Coordenação de equipes técnicas em projetos de infraestrutura
+- 📋 Planejamento e execução de projetos de TI
+- 🎯 Experiência em projetos de telecomunicações para operadoras (GSM, HSPDA, LTE)
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <p>
   <img 
@@ -205,14 +215,14 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
     src="https://github-readme-stats.vercel.app/api?username=CesarAVB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAVB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAVB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
 <br/>
 <br/>
 <br/>
@@ -238,3 +248,6 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
   <img src="https://komarev.com/ghpvc/?username=CesarAVB&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </p>
 
+<p align="center">
+  <i>⚡ "Transformando complexidade em soluções elegantes, um código por vez." ⚡</i>
+</p>

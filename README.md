@@ -4,8 +4,6 @@
 
 Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha trajetória começou em infraestrutura e redes de telecomunicações, evoluindo para o desenvolvimento de software, onde encontrei minha verdadeira paixão. Hoje atuo como desenvolvedor backend Java com Spring Boot, mantendo também expertise em infraestrutura, o que me permite criar soluções robustas e escaláveis com visão end-to-end.
 
-Atualmente trabalho na **BRLOGNET Telecomunicações**, desenvolvendo aplicações web e gerenciando infraestrutura de TI. Sou apaixonado por resolver problemas complexos e automatizar processos.
-
 <p align="left">
     <a href="https://www.linkedin.com/in/cesaravbezerra/">
         <img 
@@ -41,7 +39,6 @@ Atualmente trabalho na **BRLOGNET Telecomunicações**, desenvolvendo aplicaçõ
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando na **BRLOGNET Telecomunicações** como desenvolvedor e profissional de TI
 - 🌱 Focado em **Java/Spring Boot**, **Angular 19+** e **automação com N8N**
 - 💼 Experiência sólida em **infraestrutura de redes** e **telecomunicações**
 - 🎯 Especialista em criar soluções que integram desenvolvimento e infraestrutura

@@ -195,30 +195,6 @@ Atualmente trabalho na **BRLOGNET Telecomunicações**, desenvolvendo aplicaçõ
 - **Redes:** Cisco, Mikrotik, Huawei, Fiberhome
 - **Protocolos:** BGP, OSPF, MPLS, IPv6, SNMP
 
----
-
-### 💼 Experiência Profissional
-
-#### 🔹 BRLOGNET Telecomunicações (Nov/2024 - Atual)
-**Profissional de T.I e Desenvolvimento**
-- Desenvolvimento de aplicações web com Java/Spring Boot e Angular 19+
-- Automação de processos com N8N e Docker
-- Gerenciamento de infraestrutura de redes (BGP, OSPF, MPLS, IPv6)
-- Administração de servidores de monitoramento (Zabbix, Grafana, Centreon)
-
-#### 🔹 Easy Embranet Telecomunicações (Mar/2008 - Out/2024)
-**Programador/Desenvolvedor (Dez/2013 - Out/2024)**
-- Desenvolvimento de sistemas proprietários em PHP e Java
-- Criação de aplicação para gestão de boletos bancários
-- Sistema de gerenciamento de ativos de rede
-
-**Gerente de Suporte Técnico (Dez/2010 - Dez/2013)**
-- Coordenação de equipes técnicas
-- Implementação de servidores de monitoramento (Zabbix, Cacti, Grafana, Nagios)
-- Automação de processos com Shell Script
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p>

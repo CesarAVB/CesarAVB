@@ -239,6 +239,3 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
   <img src="https://komarev.com/ghpvc/?username=CesarAVB&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </p>
 
-<p align="center">
-  <i>⚡ "Transformando complexidade em soluções elegantes, um código por vez." ⚡</i>
-</p>

@@ -192,6 +192,7 @@ Olá! Sou César Augusto, desenvolvedor backend com mais de 10 anos de experiên
 - **Redes:** Cisco, Mikrotik, Huawei, Fiberhome
 - **Protocolos:** BGP, OSPF, MPLS, IPv6, SNMP
 
+
 ---
 
 ### 📊 Estatísticas do GitHub

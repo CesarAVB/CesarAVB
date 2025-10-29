@@ -141,14 +141,6 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
 />
 <img 
     align="left" 
-    alt="Oracle" 
-    title="Oracle"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="40px" 

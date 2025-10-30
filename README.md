@@ -2,12 +2,10 @@
 
 **`Desenvolvedor Backend Java | Especialista em Infraestrutura`**
 
-🔗 Meu Portfólio Online: https://vercel.com/cesars-projects-0156f3f3/quemsoueu
-
 Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha trajetória começou em infraestrutura e redes de telecomunicações, evoluindo para o desenvolvimento de software, onde encontrei minha verdadeira paixão. Hoje atuo como desenvolvedor backend Java com Spring Boot, mantendo também expertise em infraestrutura, o que me permite criar soluções robustas e escaláveis com visão end-to-end.
 
 <p align="left">
-    <a href="https://vercel.com/cesars-projects-0156f3f3/quemsoueu">
+    <a href="https://quemsoueu-he6rfmj0i-cesars-projects-0156f3f3.vercel.app/">
         <img 
             alt="Portfólio Online" 
             title="Acesse meu Portfólio Online" 
@@ -239,7 +237,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 
 ### 📫 Entre em Contato
 
-- 🔗 Portfólio Online: https://vercel.com/cesars-projects-0156f3f3/quemsoueu
+- 🔗 Portfólio Online: https://quemsoueu-he6rfmj0i-cesars-projects-0156f3f3.vercel.app/
 - 💼 LinkedIn: [cesaravbezerra](https://www.linkedin.com/in/cesaravbezerra/)
 - 📧 Email: gutobrrj1@hotmail.com
 - 📱 WhatsApp: (21) 97687-3801

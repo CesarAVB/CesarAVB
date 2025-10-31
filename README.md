@@ -9,7 +9,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
         <img 
             alt="Portfólio Online" 
             title="Acesse meu Portfólio Online" 
-            src="https://custom-icon-badges.demolab.com/badge/-Portfólio-28A745?style=for-the-badge&logo=link&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-Portfólio-5C0087?style=for-the-badge&logo=link&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/cesaravbezerra/">

@@ -185,7 +185,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 **Desenvolvedor Backend Java | Full Stack**
 - 🚀 Desenvolvimento de aplicações web com **Java/Spring Boot** e **Angular 19+**
 - 🔄 Automação de processos backend com **N8N** e **Docker**
-- 💾 Experiência com bancos de dados **MySQL**, **PostgreSQL** e **Oracle**
+- 💾 Experiência com bancos de dados **MySQL** e **PostgreSQL**
 - 📊 Criação de sistemas de gestão (boletos bancários, ativos de rede, sistemas proprietários)
 - 🛠️ Manutenção e evolução de aplicações legadas em **PHP**
 
@@ -193,7 +193,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 - 🌐 Gerenciamento de redes e protocolos avançados: **BGP**, **OSPF**, **MPLS**, **IPv6**
 - 📡 Configuração de equipamentos: **Cisco**, **Mikrotik**, **Huawei**, **Fiberhome**
 - 📈 Implementação de soluções de monitoramento: **Zabbix**, **Grafana**, **Nagios**, **Centreon**
-- 🖥️ Administração de servidores **Linux/Unix** e virtualização **VMWare**
+- 🖥️ Administração de servidores **Linux** e virtualização **VMWare**
 - ☎️ Gestão de servidores **VOIP** (Asterisk/FreePBX)
 - 🔧 Automação com **Shell Script**
 

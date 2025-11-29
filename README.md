@@ -180,27 +180,27 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 
 ---
 
-### 💼 Experiência Profissional
+###  Experiência Profissional
 
 **Desenvolvedor Backend Java | Full Stack**
-- 🚀 Desenvolvimento de aplicações web com **Java/Spring Boot** e **Angular 19+**
-- 🔄 Automação de processos backend com **N8N** e **Docker**
-- 💾 Experiência com bancos de dados **MySQL** e **PostgreSQL**
-- 📊 Criação de sistemas de gestão (boletos bancários, ativos de rede, sistemas proprietários)
-- 🛠️ Manutenção e evolução de aplicações legadas em **PHP**
+-  Desenvolvimento de aplicações web com **Java/Spring Boot** e **Angular 19+**
+-  Automação de processos backend com **N8N** e **Docker**
+-  Experiência com bancos de dados **MySQL** e **PostgreSQL**
+-  Criação de sistemas de gestão (boletos bancários, ativos de rede, sistemas proprietários)
+-  Manutenção e evolução de aplicações legadas em **PHP**
 
 **Infraestrutura & DevOps**
-- 🌐 Gerenciamento de redes e protocolos avançados: **BGP**, **OSPF**, **MPLS**, **IPv6**
-- 📡 Configuração de equipamentos: **Cisco**, **Mikrotik**, **Huawei**, **Fiberhome**
-- 📈 Implementação de soluções de monitoramento: **Zabbix**, **Grafana**, **Nagios**, **Centreon**
-- 🖥️ Administração de servidores **Linux** e virtualização **VMWare**
-- ☎️ Gestão de servidores **VOIP** (Asterisk/FreePBX)
-- 🔧 Automação com **Shell Script**
+-  Gerenciamento de redes e protocolos avançados: **BGP**, **OSPF**, **MPLS**, **IPv6**
+-  Configuração de equipamentos: **Cisco**, **Mikrotik**, **Huawei**, **Fiberhome**
+-  Implementação de soluções de monitoramento: **Zabbix**, **Grafana**, **Nagios**, **Centreon**
+-  Administração de servidores **Linux** e virtualização **VMWare**
+-  Gestão de servidores **VOIP** (Asterisk/FreePBX)
+-  Automação com **Shell Script**
 
 **Gestão & Liderança**
-- 👥 Coordenação de equipes técnicas em projetos de infraestrutura
-- 📋 Planejamento e execução de projetos de TI
-- 🎯 Experiência em projetos de telecomunicações para operadoras (GSM, HSPDA, LTE)
+-  Coordenação de equipes técnicas em projetos de infraestrutura
+-  Planejamento e execução de projetos de TI
+-  Experiência em projetos de telecomunicações para operadoras (GSM, HSPDA, LTE)
 
 ---
 

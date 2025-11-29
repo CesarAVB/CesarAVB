@@ -44,7 +44,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
 
 ---
 
-### 💼 Sobre Mim
+###  Sobre Mim
 
 -  **+10 anos de experiência** em tecnologia (infraestrutura → desenvolvimento)
 -  Focado em **Java/Spring Boot**, **Angular 19+**
@@ -56,7 +56,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
 
 ---
 
-### 🛠️ Stack Tecnológico
+###  Stack Tecnológico
 
 <img 
     align="left" 

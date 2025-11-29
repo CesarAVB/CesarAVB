@@ -237,11 +237,11 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 
 ###  Entre em Contato
 
-- 🔗 Portfólio Online: https://quemsoueu-six.vercel.app/
-- 💼 LinkedIn: [cesaravbezerra](https://www.linkedin.com/in/cesaravbezerra/)
-- 📧 Email: gutobrrj1@hotmail.com
-- 📱 WhatsApp: (21) 97687-3801
-- 📍 Nova Iguaçu, RJ
+-  **Portfólio Online**: https://quemsoueu-six.vercel.app/
+-  **LinkedIn**: [cesaravbezerra](https://www.linkedin.com/in/cesaravbezerra/)
+-  **Email**: gutobrrj1@hotmail.com
+-  **WhatsApp**: (21) 97687-3801
+-  Nova Iguaçu, RJ
 
 ---
 

@@ -46,7 +46,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
 
 ###  Sobre Mim
 
--  **+10 anos de experiência** em tecnologia (infraestrutura | desenvolvimento)
+-  Mais de **12 anos de experiência** em tecnologia (infraestrutura | desenvolvimento)
 -  Focado em **Java/Spring Boot**, **Angular**
 -  Especialista em criar soluções que integram desenvolvimento e infraestrutura
 -  Experiência sólida em **redes**, **telecomunicações** e **protocolos** (BGP, OSPF, MPLS, IPv6)

@@ -189,7 +189,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 -  Criação de sistemas de gestão (boletos bancários, ativos de rede, sistemas proprietários)
 -  Manutenção e evolução de aplicações legadas em **PHP**
 
-**🐳 Infraestrutura & DevOps**
+**🛠️ Infraestrutura & DevOps**
 -  Gerenciamento de redes e protocolos avançados: **BGP**, **OSPF**, **MPLS**, **IPv6**
 -  Configuração de equipamentos: **Cisco**, **Mikrotik**, **Huawei**, **Fiberhome**
 -  Implementação de soluções de monitoramento: **Zabbix**, **Grafana**, **Nagios**, **Centreon**

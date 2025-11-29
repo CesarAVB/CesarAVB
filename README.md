@@ -1,4 +1,4 @@
-# 👨‍💻 César Augusto Vieira Bezerra
+# César Augusto Vieira Bezerra
 
 **`Desenvolvedor Backend Java | Especialista em Infraestrutura`**
 

@@ -219,7 +219,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarAVB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats-eight-xi-20.vercel.app/api/top-langs/?username=CesarAVB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 

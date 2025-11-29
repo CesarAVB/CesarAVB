@@ -204,7 +204,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 
 ---
 
-### 📊 Estatísticas do GitHub
+###  Estatísticas do GitHub
 
 <p>
   <img 
@@ -235,7 +235,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 
 ---
 
-### 📫 Entre em Contato
+###  Entre em Contato
 
 - 🔗 Portfólio Online: https://quemsoueu-six.vercel.app/
 - 💼 LinkedIn: [cesaravbezerra](https://www.linkedin.com/in/cesaravbezerra/)

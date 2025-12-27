@@ -19,7 +19,7 @@ Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha t
             src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="mailto:gutobrrj1@hotmail.com">
+    <a href="mailto:cesar.augusto.rj1@gmail.com">
         <img 
             alt="Email" 
             title="Envie-me um email" 
@@ -239,7 +239,7 @@ N8N • Zabbix • Grafana • Nagios • Cacti • Centreon • Netbox • Nagv
 
 -  **Portfólio**: https://quemsoueu-six.vercel.app/
 -  **LinkedIn**: [cesaravbezerra](https://www.linkedin.com/in/cesaravbezerra/)
--  **Email**: gutobrrj1@hotmail.com
+-  **Email**: cesar.augusto.rj1@gmail.com
 -  **WhatsApp**: (21) 97687-3801
 -  Nova Iguaçu, RJ
 

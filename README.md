@@ -5,7 +5,7 @@
 Desenvolvedor backend com mais de 10 anos de experiência em tecnologia. Minha trajetória começou em infraestrutura e redes de telecomunicações, evoluindo para o desenvolvimento de software, onde encontrei minha verdadeira paixão. Hoje atuo como desenvolvedor backend Java com Spring Boot, mantendo também expertise em infraestrutura, o que me permite criar soluções robustas e escaláveis com visão end-to-end.
 
 <p align="left">
-    <a href="https://portfolio.cesaravb.com.br/">
+    <a href="https://portfolio.cesaraugusto.dev.br/">
         <img 
             alt="Portfólio Online" 
             title="Acesse meu Portfólio Online" 
